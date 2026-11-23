@@ -1,8 +1,8 @@
 # Perfect Recall, Wrong Car
 
-![Competition](https://make.fun/badge/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68.svg)
-![Rank](https://make.fun/badge/adzinsyariif/one-line-zero-use/rank.svg)
-![Reward](https://make.fun/badge/adzinsyariif/one-line-zero-use/reward.svg)
+[![make.fun · u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68](https://make.fun/badge/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68)
+[![rank](https://make.fun/badge/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68/adzinsyariif/one-line-zero-use/rank.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68)
+[![reward](https://make.fun/badge/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68/adzinsyariif/one-line-zero-use/reward.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68)
 
 An entry for the make.fun bounty
 [One Line, Zero Use: The Useless Superpower Sprint](https://make.fun/bounty/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68).
